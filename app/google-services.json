@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478063545663",
+    "project_id": "birdbazaa-7248c",
+    "storage_bucket": "birdbazaa-7248c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478063545663:android:381ee9141fcaad887b178a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.birdbazaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBopr4Met4jUIe7PlAGsxTF0T8Ow16LjQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478063545663:android:4664e6985599d7207b178a",
+        "android_client_info": {
+          "package_name": "com.technifysoft.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBopr4Met4jUIe7PlAGsxTF0T8Ow16LjQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
